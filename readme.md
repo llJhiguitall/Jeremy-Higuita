@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy JEREMY HIGUITA
 
 ## 🚀 Sobre mí
 Soy un desarrollador con experiencia en:
